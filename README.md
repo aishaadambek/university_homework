@@ -2,13 +2,13 @@
 
 The univeristy homeworks from two CS courses taken: CSCI 151 - Programming for Scientists and engineers, CSCI 232 - Operating System
 
-## Getting Started
+### Getting Started
 
 Just directly download the files or fork the repo to get started.
 For clarity:
 - AishabibiAdambek_2.c - simple assignment to count the level of person's so-called goodness based on his good deeds. Part of CSCI 151;
 - png_corrupted_restore.c - assignment to uncorrupt PNG files with simple corruption pattern: every IDAT bit XORed with 256. Part of CSCI 232;
-- simple_shell - assignment to write simple shell in C that can perform operations in background (though 'zombies' are not handled), implement pipes and common redirect operations (<, >, >>).
+- simple_shell - assignment to write simple shell in C that can perform operations in background (though 'zombies' are not handled), implement pipes and common redirect operations (<, >, >>). Part of CSCI 232;
 
 ### Prerequisites
 
