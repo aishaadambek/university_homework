@@ -9,7 +9,7 @@ For clarity:
 - AishabibiAdambek_2.c - simple assignment to count the level of person's so-called goodness based on his good deeds;
 - png_corrupted_restore.c - [from OS] assignment to uncorrupt PNG files with simple corruption pattern: every IDAT bit XORed with 256;
 - simple_shell.c - [from OS] assignment to write simple shell in C that can perform operations in background (though 'zombies' are not handled), implement pipes and common redirect operations (<, >, >>);
-- aadambek_final_server.c - [from OS] final project in Operating Systems class: a quiz server that uses multi-threading and synchronization to run quizzes and non-blocking events to welcome new users and to distribute quizzes to users. The quiz server still has some mistakes in synchronization (mostly with running several quizzes simultaneously).
+- aadambek_final_server.c - [from OS] final project in Operating Systems class: a quiz server that uses POSIX Multithreading and Multiplexing to run quizzes that welcome new users and distribute quizzes among them. The quiz server has some mistakes in synchronization (mostly with running several quizzes simultaneously).
 
 ### Prerequisites
 
